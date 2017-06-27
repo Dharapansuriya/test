@@ -5,9 +5,13 @@ hellooo
 hi how r y
 =======
 shivani
+<<<<<<< HEAD
 >>>>>>> 39a14eb8dfdcb345d12e6f46703045043b6844f5
 
 
 
 hello i m dhara 
 how r u????
+=======
+dhara is made
+>>>>>>> 9a494b8245c3ca019ceb64047e2313ffe0c9ecd9

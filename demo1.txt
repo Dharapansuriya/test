@@ -1,4 +1,13 @@
 ECHO is on.
 demo1 is on
+<<<<<<< HEAD
 hellooo
 hi how r y
+=======
+shivani
+>>>>>>> 39a14eb8dfdcb345d12e6f46703045043b6844f5
+
+
+
+hello i m dhara 
+how r u????

@@ -1,4 +1,4 @@
 ECHO is on.
 dhara pansuriya
-ok  \
+ok  
 done
